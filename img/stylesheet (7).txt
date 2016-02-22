@@ -1,0 +1,17 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-pagin-left {
+    width: 8px;
+    height: 14px;
+    background-position: -5px -5px;
+}
+
+.sprite-pagin-right {
+    width: 8px;
+    height: 14px;
+    background-position: -23px -5px;
+}
